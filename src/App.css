@@ -1,38 +1,71 @@
-.App {
-  text-align: center;
+* {
+  padding: 0;
+  margin: 0 auto;
+  font-family: arial;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.checked {
+  color: orange;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  /* width: 40%; */
+  max-width: 450px;
+  border-radius: 8px;
+  margin-bottom: 20px;
+  margin-left: 20px;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.container {
+  padding: 2px 16px;
+}
+
+.format {
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 20px;
+  color: #007185;
+}
+
+.author {
+  font-size: 14px;
+  line-height: 20px;
+  color: #007185;
+}
+
+.bookName {
+  color: #0F1111;
+  font-size: 18px;
+  line-height: 24px;
+  font-weight: 800;
+  font-style: normal;
+  text-transform: none;
+  text-decoration: none;
+}
+
+.price {
+  color: #B12704;
+  font-size: 21px;
+  line-height: normal;
+}
+
+
+.reviewers {
+  font-size: 14px;
+  line-height: 20px;
+  color: #007185;
+  margin-left: 20px;
+}
+
+.bookList {
   display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+  flex-direction: row;
+  justify-self: start;
+  flex-wrap: wrap;
 }

@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "imgSrc": "https://m.media-amazon.com/images/I/710jnzKlDTL._AC_UY436_FMwebp_QL65_.jpg",
+        "name": "Attitude Is Everything",
+        "author": "Jeff Keller",
+        "price": 134,
+        "format": "Paperback",
+        "starRating": 3,
+        "reviewers": "9,542"
+    },
+    {
+        "id": 2,
+        "imgSrc": "https://m.media-amazon.com/images/I/51lcPNrymnL._AC_UY436_FMwebp_QL65_.jpg",
+        "name": "Think and Grow Rich",
+        "author": "Napolean Hill",
+        "price": 34,
+        "format": "Kindle",
+        "starRating": 4,
+        "reviewers": "33,456"
+    },
+    {
+        "id": 3,
+        "imgSrc": "https://m.media-amazon.com/images/I/61Iz2yy2CKL._AC_UY436_FMwebp_QL65_.jpg",
+        "name": "The Monk Who Sold His Ferrari",
+        "author": "Robin Sharma",
+        "price": 170,
+        "format": "Paperback",
+        "starRating": 4,
+        "reviewers": "10,013"
+    },
+    {
+        "id": 4,
+        "imgSrc": "https://m.media-amazon.com/images/I/81i2034Lj0S._AC_UY436_FMwebp_QL65_.jpg",
+        "name": "Train To Pakistan",
+        "author": "Khushwant Singh",
+        "price": 171,
+        "format": "Paperback",
+        "starRating": 3,
+        "reviewers": "45,608"
+    },
+    {
+        "id": 5,
+        "imgSrc": "https://m.media-amazon.com/images/I/71e9MY-XE9L._AC_UY436_FMwebp_QL65_.jpg",
+        "name": "Blue Umbrella",
+        "author": "Ruskin Bond",
+        "price": 196,
+        "format": "Hardcover",
+        "starRating": 3,
+        "reviewers": "5,523"
+    },
+    {
+        "id": 6,
+        "imgSrc": "https://m.media-amazon.com/images/I/81N7FmJhbhL._AC_UY436_FMwebp_QL65_.jpg",
+        "name": "Amazing Life Secrets",
+        "author": "Gaur Gopal Das",
+        "price": 70,
+        "format": "Kindle",
+        "starRating": 4,
+        "reviewers": "47,881"
+    },
+    {
+        "id": 7,
+        "imgSrc": "https://m.media-amazon.com/images/I/81NYuWzsJcS._AC_UY436_FMwebp_QL65_.jpg",
+        "name": "The Richest Man In Babylon",
+        "author": "George S. Classon",
+        "price": 99,
+        "format": "Paperback",
+        "starRating": 4,
+        "reviewers": "23,988"
+    },
+    {
+        "id": 8,
+        "imgSrc": "https://m.media-amazon.com/images/I/81l9tZKRZLL._AC_UY436_FMwebp_QL65_.jpg",
+        "name": "The Girl In Room 105",
+        "author": "Chetan Bhagat",
+        "price": 157,
+        "format": "Paperback",
+        "starRating": 3,
+        "reviewers": "31,200"
+    }
+]
